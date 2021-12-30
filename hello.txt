@@ -1,3 +1,5 @@
 hello  git! 2
+<<<<<<< HEAD
 hello git change for first time! master test
-321
+hello git change for first time!
+
